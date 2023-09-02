@@ -1,0 +1,379 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+        background-image: url("eklogowalp.png");
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+/* ... Diğer stiller ... */
+
+.mobile-container {
+  max-width: 480px;
+  margin: auto;
+  background-color: #555;
+  height: 500px;
+  color: white;
+  border-radius: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a.icon {
+  float: right;
+  color: white;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: white ;
+}
+
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button {
+
+    padding: 10px 20px;
+    font-size: 19px;
+    color: white;
+    background-color: red ;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    text-decoration: none;
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: red;
+}
+
+
+
+   .boxg {
+            position: relative;
+        }
+
+       
+
+
+
+/* Content Styling */
+.content {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.paragraph {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+.paragraph.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Slider Container */
+.slider-container {
+    width: 100%;
+    height: calc(100vh - 70px);
+    overflow: hidden;
+    position: relative;
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+/* Dual Box Container */
+.dual-box-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.dual-box {
+    background-color: black;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    color: white ;
+    z-index: 99 ;
+}
+
+/* Box Container */
+.box-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+
+.box {
+    flex: 1;
+    background-color: #17414d;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    transition: transform 0.3s ease-in-out;
+    color: white;
+}
+
+.box:hover {
+    transform: scale(1.05);
+}
+
+.box1 {
+    color: black;
+    flex: 1;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease-in-out;
+    color: black;
+}
+
+
+
+.box1:hover {
+    transform: scale(1.05);
+}
+
+/* Social Media Box */
+.sosyal-medya-kutusu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.sosyal-medya-kutusu a {
+    text-decoration: none;
+    margin: 0;
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    align-items: center;
+}
+
+.sosyal-medya-kutusu a img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.sosyal-medya-kutusu a:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Centered Form */
+.centered-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.form-container {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+}
+
+.form-container:hover {
+    background-color: #ffcccc;
+}
+
+.form-title {
+    font-size: 44px;
+    margin-bottom: 10px;
+    color: red;
+}
+
+.form-label {
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: red;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-button {
+    background-color: #00c3ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-button:hover {
+    background-color: red;
+}
+
+/* ... Diğer stiller ... */
+
+/* ... Diğer stiller ... */
+
+/* Container Styles */
+.containerf {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: black;
+    color: white ;
+}
+
+.group {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: white ;
+}
+
+.column {
+    flex: 1;
+    width: calc(50% - 20px);
+    padding: 0 10px;
+    border-right: 1px solid #ddd;
+    box-sizing: border-box;
+    background-color: black;
+    color: white ;
+}
+
+.column:last-child {
+    border-right: none;
+    color: white;
+}
+
+/* Haber Box */
+
+    .haber-box {
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 20px auto;
+    position: relative;
+    color: black;
+}
+
+.haber-listesi {
+    display: flex;
+    transition: transform 0.3s ease; /* Kaydırma efekti için geçiş ekle */
+    color: black ;
+}
+
+.haber {
+    width: 300px;
+    height: 300px;
+    flex-shrink: 0; /* Haber kutusu boyutunu korur */
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: black ;
+}
+
+.haber-icerik {
+    padding: 15px;
+    color: black ;
+}
+@keyframes fade {
+    0%, 100% {
+        opacity: 0;
+    }
+    20%, 80% {
+        opacity: 1;
+    }
+}
+
+ .iframe-container {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .iframe-box {
+            width: 80%;
+            max-width: 1200px;
+            height: 80vh;
+            border: 2px solid #ccc;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }

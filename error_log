@@ -1,0 +1,166 @@
+[29-Aug-2023 07:33:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/yzissite/enflasyonkoin/iletişim.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 146
+[29-Aug-2023 07:33:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/yzissite/enflasyonkoin/iletişim.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 146
+[29-Aug-2023 16:04:18 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:04:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:04:18 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:04:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:04:26 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:04:26 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:04:26 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:04:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:04:54 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:04:54 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:04:54 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:04:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:05:04 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:05:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 130
+[29-Aug-2023 16:05:04 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:05:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 140
+[29-Aug-2023 16:06:44 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 124
+[29-Aug-2023 16:06:44 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 124
+[29-Aug-2023 16:06:44 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 134
+[29-Aug-2023 16:06:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 134
+[29-Aug-2023 16:06:52 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 124
+[29-Aug-2023 16:06:52 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 124
+[29-Aug-2023 16:06:52 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 134
+[29-Aug-2023 16:06:52 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 134
+[29-Aug-2023 16:08:27 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:08:27 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:08:27 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:08:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:10:50 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 131
+[29-Aug-2023 16:10:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 131
+[29-Aug-2023 16:10:59 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 131
+[29-Aug-2023 16:10:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 131
+[29-Aug-2023 16:18:21 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 131
+[29-Aug-2023 16:18:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 131
+[29-Aug-2023 16:22:57 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:22:57 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:22:57 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:22:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:23:02 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:23:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:23:02 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:23:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:23:10 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:23:10 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:23:23 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:23:23 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:23:23 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:23:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:25:06 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:06 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:17 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:17 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:17 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:25:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:25:23 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:23 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:34 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:34 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:42 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:42 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:25:42 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:25:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:27:10 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:10 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:10 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:27:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:27:14 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:15 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:15 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:22 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:32 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:32 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:27:32 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:27:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:28:17 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:17 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:28 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:28 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:28 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:28:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:28:59 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:59 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:59 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:28:59 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:34:04 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:34:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:34:14 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:34:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:34:14 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:34:14 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:45:05 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:45:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:45:05 Europe/Istanbul] PHP Warning:  Undefined variable $conn in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:45:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/yzissite/enflasyonkoin/iletişim.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/yzissite/enflasyonkoin/iletişim.php on line 12
+[29-Aug-2023 16:45:11 Europe/Istanbul] PHP Warning:  include(dbconnect.php): Failed to open stream: No such file or directory in /home/yzissite/enflasyonkoin/iletişim.php on line 2
+[29-Aug-2023 16:45:11 Europe/Istanbul] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yzissite/enflasyonkoin/iletişim.php on line 2
